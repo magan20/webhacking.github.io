@@ -19,7 +19,7 @@ locale                   : "en-kr"
 title                    : "만들고 방치하는 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "신명진"
+name                     : "magan20"
 description              : "가끔 들어옴"
 url                      : "https://magan20.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
